@@ -1,0 +1,25 @@
+{
+  "name": "palindrome.js-jest-unit-test",
+  "version": "1.0.0",
+  "description": "JEST Unit Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amelegech/Palindrome.js-JEST-Unit-Test.git"
+  },
+  "keywords": [
+    "Testing"
+  ],
+  "author": "Amelework Cheklie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amelegech/Palindrome.js-JEST-Unit-Test/issues"
+  },
+  "homepage": "https://github.com/amelegech/Palindrome.js-JEST-Unit-Test#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
